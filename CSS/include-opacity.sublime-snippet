@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include opacity($0); 
+]]></content>
+	<tabTrigger>_io</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include opacity() - LilGast8</description>
+</snippet>

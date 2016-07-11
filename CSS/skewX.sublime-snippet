@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+skewX($0)
+]]></content>
+	<tabTrigger>_skx</tabTrigger>
+	<scope>source.scss</scope>
+	<description>skewX() - LilGast8</description>
+</snippet>

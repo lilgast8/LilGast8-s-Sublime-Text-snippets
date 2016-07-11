@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include scale(${1:X}, ${2:Y}); 
+]]></content>
+	<tabTrigger>_isc</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include scale() - LilGast8</description>
+</snippet>

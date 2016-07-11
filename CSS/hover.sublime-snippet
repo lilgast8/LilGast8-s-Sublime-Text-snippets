@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+&:hover {$0}
+]]></content>
+	<tabTrigger>_h</tabTrigger>
+	<scope>source.scss</scope>
+	<description>hover - LilGast8</description>
+</snippet>

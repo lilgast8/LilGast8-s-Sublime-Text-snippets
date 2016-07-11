@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include transform-origin(${1:X}, ${2:Y}, ${3:Z})
+]]></content>
+	<tabTrigger>_itfo</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include transform-origin() - LilGast8</description>
+</snippet>

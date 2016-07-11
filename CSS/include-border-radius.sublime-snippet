@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include border-radius(${1:50%}); 
+]]></content>
+	<tabTrigger>_ibr</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include border-radius() - LilGast8</description>
+</snippet>

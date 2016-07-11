@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+skewY($0)
+]]></content>
+	<tabTrigger>_sky</tabTrigger>
+	<scope>source.scss</scope>
+	<description>skewY() - LilGast8</description>
+</snippet>

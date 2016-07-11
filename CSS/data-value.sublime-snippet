@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+&[data-${1:DATA}="${2:VALUE}"] {$3}
+]]></content>
+	<tabTrigger>_d</tabTrigger>
+	<scope>source.scss</scope>
+	<description>data-value - LilGast8</description>
+</snippet>

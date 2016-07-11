@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include scaleY($0); 
+]]></content>
+	<tabTrigger>_iscy</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include scaleY() - LilGast8</description>
+</snippet>

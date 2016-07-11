@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include translate(${1:X}, ${2:Y}); 
+]]></content>
+	<tabTrigger>_itl</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include translate() - LilGast8</description>
+</snippet>

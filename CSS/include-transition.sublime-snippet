@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include transition(${1:all} ${2:0.5}s \$ease${3:Out}${4:Quart}); 
+]]></content>
+	<tabTrigger>_itt</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include transition() - LilGast8</description>
+</snippet>

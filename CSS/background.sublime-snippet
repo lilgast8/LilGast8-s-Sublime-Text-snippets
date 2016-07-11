@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background:url(../img/${1:IMAGE_PATH}) ${2:center} ${3:center} ${4:no-repeat}; 
+]]></content>
+	<tabTrigger>_bg</tabTrigger>
+	<scope>source.scss</scope>
+	<description>background - LilGast8</description>
+</snippet>

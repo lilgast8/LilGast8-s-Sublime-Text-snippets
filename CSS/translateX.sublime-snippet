@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+translateX($0)
+]]></content>
+	<tabTrigger>_tlx</tabTrigger>
+	<scope>source.scss</scope>
+	<description>translateX() - LilGast8</description>
+</snippet>

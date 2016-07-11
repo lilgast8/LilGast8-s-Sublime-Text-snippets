@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+translateZ($0)
+]]></content>
+	<tabTrigger>_tlz</tabTrigger>
+	<scope>source.scss</scope>
+	<description>translateZ() - LilGast8</description>
+</snippet>

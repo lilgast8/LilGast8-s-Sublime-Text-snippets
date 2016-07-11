@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include rotate($0); 
+]]></content>
+	<tabTrigger>_irt</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include rotate() - LilGast8</description>
+</snippet>

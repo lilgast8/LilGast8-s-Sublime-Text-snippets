@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include ${1:FCT_NAME}(${2:ARGS}); 
+]]></content>
+	<tabTrigger>_i</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+&:before {$0}
+]]></content>
+	<tabTrigger>_b</tabTrigger>
+	<scope>source.scss</scope>
+	<description>before - LilGast8</description>
+</snippet>

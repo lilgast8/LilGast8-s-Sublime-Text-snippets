@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scaleZ($0)
+]]></content>
+	<tabTrigger>_scz</tabTrigger>
+	<scope>source.scss</scope>
+	<description>scaleZ() - LilGast8</description>
+</snippet>

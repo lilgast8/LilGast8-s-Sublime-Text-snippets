@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rotateZ($0)
+]]></content>
+	<tabTrigger>_rtz</tabTrigger>
+	<scope>source.scss</scope>
+	<description>rotateZ() - LilGast8</description>
+</snippet>

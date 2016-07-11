@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scaleX($0)
+]]></content>
+	<tabTrigger>_scx</tabTrigger>
+	<scope>source.scss</scope>
+	<description>scaleX() - LilGast8</description>
+</snippet>
