@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$( '${1:EL}' )
+]]></content>
+	<tabTrigger>js</tabTrigger>
+	<scope>source.js</scope>
+	<description>$() - LilGast8</description>
+</snippet>

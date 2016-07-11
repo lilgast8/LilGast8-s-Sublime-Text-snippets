@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+resetStyle( ${1:\$${2:EL}${3:[${4:0}]}} );
+]]></content>
+	<tabTrigger>rs</tabTrigger>
+	<scope>source.js</scope>
+	<description>resetStyle - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$${2:EL}}[${3:NB}].style.${4:STYLE} = ${5:'${6:VALUE}'};
+]]></content>
+	<tabTrigger>els</tabTrigger>
+	<scope>source.js</scope>
+	<description>$el[0].style. - LilGast8</description>
+</snippet>

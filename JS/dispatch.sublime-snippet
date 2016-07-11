@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.dispatch( this.E.${1:EVENT} );
+]]></content>
+	<tabTrigger>d</tabTrigger>
+	<scope>source.js</scope>
+	<description>dispatch - LilGast8</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for ( var i = 0; i < ${1:${2:TAB}.length}; i++ ) {
+	${0:// BODY}
+}
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js</scope>
+	<description>for - LilGast8</description>
+</snippet>

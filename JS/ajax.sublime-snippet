@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+\$.ajax({
+	context:	this,
+	url:		${1:URL_PAGE},
+	type:		'POST',
+	data:		{
+					${2:DATA}: ${3:DATA_TO_PASS}
+				},
+	dataType:	'html',
+	success:	${4:this.SUCCESS_FCT/_SUCCESS_FCT.bind( this )},
+	error:		${5:this.ERROR_FCT/_ERROR_FCT.bind( this )}
+});
+]]></content>
+	<tabTrigger>ajax</tabTrigger>
+	<scope>source.js</scope>
+	<description>$.ajax - LilGast8</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:CLASS_NAME}.prototype.${2:FUNCTION_NAME} = function(${3: ARGS }) {
+	${0:// BODY}
+};
+]]></content>
+	<tabTrigger>fpu</tabTrigger>
+	<scope>source.js</scope>
+	<description>public function - LilGast8</description>
+</snippet>

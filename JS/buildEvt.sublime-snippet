@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this.${2:OBJECT}}.buildEvt( ${1:this.${2:OBJECT}}.E.${3:EVENT}, ${4:FCT}.bind( ${5:this} ), ${6:this.id} );
+]]></content>
+	<tabTrigger>be</tabTrigger>
+	<scope>source.js</scope>
+	<description>buildEvt - LilGast8</description>
+</snippet>

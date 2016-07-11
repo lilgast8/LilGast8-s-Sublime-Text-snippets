@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.tw.
+]]></content>
+	<tabTrigger>ttw</tabTrigger>
+	<scope>source.js</scope>
+	<description>this.tw. - LilGast8</description>
+</snippet>

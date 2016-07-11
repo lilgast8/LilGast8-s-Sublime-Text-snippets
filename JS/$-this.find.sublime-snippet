@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$(this).find( '${1:EL}' )
+]]></content>
+	<tabTrigger>jtf</tabTrigger>
+	<scope>source.js</scope>
+	<description>$(this).find('') - LilGast8</description>
+</snippet>

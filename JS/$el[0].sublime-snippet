@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$${2:EL}}[${3:NB}]
+]]></content>
+	<tabTrigger>el</tabTrigger>
+	<scope>source.js</scope>
+	<description>$el[0] - LilGast8</description>
+</snippet>

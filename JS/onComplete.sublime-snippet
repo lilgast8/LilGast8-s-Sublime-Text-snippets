@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+onComplete:function() {
+	${0:// BODY}
+}${1:.bind( this )}
+]]></content>
+	<tabTrigger>oc</tabTrigger>
+	<scope>source.js</scope>
+	<description>onComplete:function() - LilGast8</description>
+</snippet>

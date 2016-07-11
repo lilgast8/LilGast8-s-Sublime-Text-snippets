@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alert( '${1:SLP}' );
+]]></content>
+	<tabTrigger>as</tabTrigger>
+	<scope>source.js</scope>
+	<description>alert string - LilGast8</description>
+</snippet>

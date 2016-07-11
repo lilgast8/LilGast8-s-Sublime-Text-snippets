@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+onUpdate:function() {
+	${0:// BODY}
+}${1:.bind( this )}
+]]></content>
+	<tabTrigger>ou</tabTrigger>
+	<scope>source.js</scope>
+	<description>onUpdate:function() - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+resetClass( ${1:${2:\$${3:EL}}${4:[${5:0}]}} );
+]]></content>
+	<tabTrigger>rsc</tabTrigger>
+	<scope>source.js</scope>
+	<description>resetClass - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+document.getElementById( '${1:ID}' );
+]]></content>
+	<tabTrigger>gi</tabTrigger>
+	<scope>source.js</scope>
+	<description>document.getElementById() - LilGast8</description>
+</snippet>

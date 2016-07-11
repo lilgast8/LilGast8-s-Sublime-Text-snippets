@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.tl.${1:TIMELINE_NAME}.to( ${2:EL}, ${3:0.5}, { ${4:PROP}:${5:VAL}, ease:${6:Expo}.ease${7:Out} } );
+]]></content>
+	<tabTrigger>tlt</tabTrigger>
+	<scope>source.js</scope>
+	<description>Timeline.to() - LilGast8</description>
+</snippet>

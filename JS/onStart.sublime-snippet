@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+onStart:function() {
+	${0:// BODY}
+}${1:.bind( this )}
+]]></content>
+	<tabTrigger>os</tabTrigger>
+	<scope>source.js</scope>
+	<description>onStart:function() - LilGast8</description>
+</snippet>

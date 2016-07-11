@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this.\$${2:EL}}.off( '${3:EVENT}', \$.proxy( ${4:FCT}, ${5:this} ) );
+]]></content>
+	<tabTrigger>u</tabTrigger>
+	<scope>source.js</scope>
+	<description>unbind - LilGast8</description>
+</snippet>

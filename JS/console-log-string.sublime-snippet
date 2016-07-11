@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+console.log( '${1:SLP}' );
+]]></content>
+	<tabTrigger>cls</tabTrigger>
+	<scope>source.js</scope>
+	<description>console log string - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+addClass( ${1:${2:\$${3:EL}}${4:[${5:0}]}}, '${6:CLASS_NAME}' );
+]]></content>
+	<tabTrigger>ac</tabTrigger>
+	<scope>source.js</scope>
+	<description>addClass - LilGast8</description>
+</snippet>

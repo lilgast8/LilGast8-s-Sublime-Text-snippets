@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.tl.${1:TIMELINE_NAME} = new TimelineMax(${2: { paused:true \} });
+]]></content>
+	<tabTrigger>tlm</tabTrigger>
+	<scope>source.js</scope>
+	<description>new TimelineMax() - LilGast8</description>
+</snippet>

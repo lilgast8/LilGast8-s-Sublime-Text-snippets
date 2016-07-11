@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hasClass( ${1:\$${2:EL}${3:[${4:0}]}}, '${5:CLASS_NAME}' );
+]]></content>
+	<tabTrigger>hc</tabTrigger>
+	<scope>source.js</scope>
+	<description>hasClass - LilGast8</description>
+</snippet>

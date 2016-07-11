@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for ( var ${1:KEY} in ${2:OBJECT} ) {
+	${0:// BODY}
+}
+]]></content>
+	<tabTrigger>forin</tabTrigger>
+	<scope>source.js</scope>
+	<description>for in - LilGast8</description>
+</snippet>

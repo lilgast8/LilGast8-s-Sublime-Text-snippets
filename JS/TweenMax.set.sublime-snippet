@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.tw.${1:TWEEN_NAME} = TweenMax.set( ${2:EL}, { ${3:PROP}:${4:VAL} } );
+]]></content>
+	<tabTrigger>twms</tabTrigger>
+	<scope>source.js</scope>
+	<description>TweenLite.set() - LilGast8</description>
+</snippet>

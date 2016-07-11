@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 
+]]></content>
+	<tabTrigger>r</tabTrigger>
+	<scope>source.js</scope>
+	<description>return - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.tw.${1:TWEEN_NAME} = TweenMax.fromTo( ${2:EL}, ${3:0.5}, { ${4:PROP}:${5:VAL_FROM} }, { ${4:PROP}:${6:VAL_TO}, ease:${7:Expo}.ease${8:Out} } );
+]]></content>
+	<tabTrigger>twmft</tabTrigger>
+	<scope>source.js</scope>
+	<description>TweenMax.fromTo() - LilGast8</description>
+</snippet>

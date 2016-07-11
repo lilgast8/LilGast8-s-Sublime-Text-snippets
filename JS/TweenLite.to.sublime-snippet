@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.tw.${1:TWEEN_NAME} = TweenLite.to( ${2:EL}, ${3:0.5}, { ${4:PROP}:${5:VAL}, ease:${6:Expo}.ease${7:Out} } );
+]]></content>
+	<tabTrigger>twlt</tabTrigger>
+	<scope>source.js</scope>
+	<description>TweenLite.to() - LilGast8</description>
+</snippet>

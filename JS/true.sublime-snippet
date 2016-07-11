@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+true
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<scope>source.js</scope>
+	<description>true - LilGast8</description>
+</snippet>
