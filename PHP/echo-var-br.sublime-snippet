@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+echo \$${1:VAR_NAME}.'<br />';
+]]></content>
+	<tabTrigger>evb</tabTrigger>
+	<scope>source.php</scope>
+	<description>echo $var br - LilGast8</description>
+</snippet>

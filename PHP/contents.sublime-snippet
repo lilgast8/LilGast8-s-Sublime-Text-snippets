@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Contents::\$datas->${1:PAGE_NAME}->${2:VAR};
+]]></content>
+	<tabTrigger>c</tabTrigger>
+	<scope>source.php</scope>
+	<description>Contents::$datas - LilGast8</description>
+</snippet>

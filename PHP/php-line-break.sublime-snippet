@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?php
+$0
+?>
+]]></content>
+	<tabTrigger>plb</tabTrigger>
+	<description>php line break - LilGast8</description>
+</snippet>

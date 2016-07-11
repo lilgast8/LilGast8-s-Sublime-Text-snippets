@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+echo '${1:SLP}'.'<br />';
+]]></content>
+	<tabTrigger>esb</tabTrigger>
+	<scope>source.php</scope>
+	<description>echo 'string' br - LilGast8</description>
+</snippet>

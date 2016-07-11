@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+echo '<pre>';
+var_dump( ${1:\$${2:ARRAY/\$OBJECT}} );
+echo '</pre>';
+]]></content>
+	<tabTrigger>vd</tabTrigger>
+	<scope>source.php</scope>
+	<description>var_dump() - LilGast8</description>
+</snippet>

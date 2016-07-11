@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo '${1:SLP}'; ?>
+]]></content>
+	<tabTrigger>pes</tabTrigger>
+	<description>php echo 'string' - LilGast8</description>
+</snippet>

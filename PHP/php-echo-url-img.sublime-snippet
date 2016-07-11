@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo Path::\$URL->img; ?>
+]]></content>
+	<tabTrigger>peui</tabTrigger>
+	<description>php echo Path::$URL->img - LilGast8</description>
+</snippet>

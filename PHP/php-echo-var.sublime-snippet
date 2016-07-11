@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo \$${1:VAR_NAME}; ?>
+]]></content>
+	<tabTrigger>pev</tabTrigger>
+	<description>php echo $var - LilGast8</description>
+</snippet>
