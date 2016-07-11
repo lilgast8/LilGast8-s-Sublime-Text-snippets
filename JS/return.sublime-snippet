@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-return 
+return${1: var};
 ]]></content>
 	<tabTrigger>r</tabTrigger>
 	<scope>source.js</scope>

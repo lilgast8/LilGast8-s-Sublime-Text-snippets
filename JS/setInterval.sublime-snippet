@@ -2,7 +2,7 @@
 	<content><![CDATA[
 setInterval( function() {
 	${0:// BODY}
-}${1:.bind(this)}, ${2:delay} );
+}${1:.bind( this )}, ${2:delay} );
 ]]></content>
 	<tabTrigger>sin</tabTrigger>
 	<scope>source.js</scope>

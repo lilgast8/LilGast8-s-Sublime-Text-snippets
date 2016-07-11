@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$(this).find( '${1:EL}' )
+\$( this ).find( '${1:EL}' )
 ]]></content>
 	<tabTrigger>jtf</tabTrigger>
 	<scope>source.js</scope>

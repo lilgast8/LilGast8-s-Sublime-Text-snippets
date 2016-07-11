@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-var ${1:FUNCTION_NAME} = function(${2: ARGS }) {
+var _${1:FUNCTION_NAME} = function(${2: ARGS }) {
 	${0:// BODY}
 };
 ]]></content>

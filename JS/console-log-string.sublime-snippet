@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.log( '${1:SLP}' );
+console.log( '${1:⚡️ SLP ⚡️}' );
 ]]></content>
 	<tabTrigger>cls</tabTrigger>
 	<scope>source.js</scope>
