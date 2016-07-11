@@ -1,6 +1,11 @@
 <snippet>
 	<content><![CDATA[
-&:before {$0}
+&:before {
+	content: '';${1:
+	position: absolute;
+	left: ${2:0}${3:px};
+	top: ${4:0}${5:px};}
+}
 ]]></content>
 	<tabTrigger>_b</tabTrigger>
 	<scope>source.scss</scope>

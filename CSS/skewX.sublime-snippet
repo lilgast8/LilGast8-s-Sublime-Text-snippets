@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-skewX($0)
+skewX(${1:X})
 ]]></content>
 	<tabTrigger>_skx</tabTrigger>
 	<scope>source.scss</scope>

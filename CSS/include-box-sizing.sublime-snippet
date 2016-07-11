@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include box-sizing(border-box); 
+@include box-sizing(border-box);
 ]]></content>
 	<tabTrigger>_ibs</tabTrigger>
 	<scope>source.scss</scope>

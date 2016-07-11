@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-scaleZ($0)
+scaleZ(${1:Z})
 ]]></content>
 	<tabTrigger>_scz</tabTrigger>
 	<scope>source.scss</scope>

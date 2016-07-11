@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include scaleZ($0); 
+@include scaleZ(${1:Z});
 ]]></content>
 	<tabTrigger>_iscz</tabTrigger>
 	<scope>source.scss</scope>

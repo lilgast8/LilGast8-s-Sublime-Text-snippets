@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include scaleY($0); 
+@include scaleY(${1:Y});
 ]]></content>
 	<tabTrigger>_iscy</tabTrigger>
 	<scope>source.scss</scope>

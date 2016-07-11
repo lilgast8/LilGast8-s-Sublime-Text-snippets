@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-scaleX($0)
+scaleX(${1:X})
 ]]></content>
 	<tabTrigger>_scx</tabTrigger>
 	<scope>source.scss</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include text-shadow(${1:X}, ${2:X}, ${3:BLUR}, ${4:COLOR}); 
+@include text-shadow(${1:X}, ${2:X}, ${3:BLUR}, ${4:COLOR});
 ]]></content>
 	<tabTrigger>_its</tabTrigger>
 	<scope>source.scss</scope>

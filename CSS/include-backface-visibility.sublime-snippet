@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include backface-visibility(hidden); 
+@include backface-visibility(hidden);
 ]]></content>
 	<tabTrigger>_ibv</tabTrigger>
 	<scope>source.scss</scope>

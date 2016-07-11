@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include border-radius(${1:50%}); 
+@include border-radius(${1:50}${2:%});
 ]]></content>
 	<tabTrigger>_ibr</tabTrigger>
 	<scope>source.scss</scope>

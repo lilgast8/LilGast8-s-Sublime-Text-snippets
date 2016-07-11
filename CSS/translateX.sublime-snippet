@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-translateX($0)
+translateX(${1:X})
 ]]></content>
 	<tabTrigger>_tlx</tabTrigger>
 	<scope>source.scss</scope>

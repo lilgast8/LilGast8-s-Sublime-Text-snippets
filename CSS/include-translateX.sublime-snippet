@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include translateX($0); 
+@include translateX(${1:X});
 ]]></content>
 	<tabTrigger>_itlx</tabTrigger>
 	<scope>source.scss</scope>

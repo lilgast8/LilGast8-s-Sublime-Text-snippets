@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include background-size(cover); 
+@include background-size(cover);
 ]]></content>
 	<tabTrigger>_ibgs</tabTrigger>
 	<scope>source.scss</scope>

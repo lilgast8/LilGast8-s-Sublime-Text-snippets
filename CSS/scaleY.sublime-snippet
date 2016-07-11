@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-scaleY($0)
+scaleY(${1:Y})
 ]]></content>
 	<tabTrigger>_scy</tabTrigger>
 	<scope>source.scss</scope>
