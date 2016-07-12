@@ -6,7 +6,7 @@ $0
 
 {% endif %}
 ]]></content>
-	<tabTrigger>ifel</tabTrigger>
+	<tabTrigger>ife</tabTrigger>
 	<scope>text.html.twig</scope>
 	<description>if else - LilGast8</description>
 </snippet>
