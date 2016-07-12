@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+else${1: {
+	$2
+\}}
+]]></content>
+	<tabTrigger>e</tabTrigger>
+	<scope>source.js</scope>
+	<description>else - LilGast8</description>
+</snippet>

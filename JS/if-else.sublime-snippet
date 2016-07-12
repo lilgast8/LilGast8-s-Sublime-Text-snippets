@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+if ( ${1:condition} )${2: {
+	$3
+\}}
+else${4: {
+	$5
+\}}
+]]></content>
+	<tabTrigger>ife</tabTrigger>
+	<scope>source.js</scope>
+	<description>if else - LilGast8</description>
+</snippet>
