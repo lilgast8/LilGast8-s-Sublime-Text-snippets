@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-this.tl.${1:TIMELINE_NAME}.fromTo( ${2:EL}, ${3:0.5}, { ${4:PROP}:${5:VAL_FROM} }, { ${4:PROP}:${6:VAL_TO}, ease:${7:Expo}.ease${8:Out} } );
+this.tl.${1:TIMELINE_NAME}.fromTo( ${2:this.\$${3:EL}}, ${4:0.5}, { ${5:PROP}:${6:VAL_FROM} }, { ${5:PROP}:${7:VAL_TO}, ease:${8:Quart}.ease${9:Out} } );
 ]]></content>
 	<tabTrigger>tlft</tabTrigger>
 	<scope>source.js</scope>

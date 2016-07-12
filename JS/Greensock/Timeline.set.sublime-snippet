@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-this.tl.${1:TIMELINE_NAME}.set( ${2:EL}, { ${3:PROP}:${4:VAL} } );
+this.tl.${1:TIMELINE_NAME}.set( ${2:this.\$${3:EL}}, { ${4:PROP}:${5:VAL} } );
 ]]></content>
 	<tabTrigger>tls</tabTrigger>
 	<scope>source.js</scope>

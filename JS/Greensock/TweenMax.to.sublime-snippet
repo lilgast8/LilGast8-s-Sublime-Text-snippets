@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-this.tw.${1:TWEEN_NAME} = TweenMax.to( ${2:EL}, ${3:0.5}, { ${4:PROP}:${5:VAL}, ease:${6:Expo}.ease${7:Out} } );
+this.tw.${1:TWEEN_NAME} = TweenMax.to( ${2:this.\$${3:EL}}, ${4:0.5}, { ${5:PROP}:${6:VAL}, ease:${7:Quart}.ease${8:Out} } );
 ]]></content>
 	<tabTrigger>twmt</tabTrigger>
 	<scope>source.js</scope>

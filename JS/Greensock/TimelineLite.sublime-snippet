@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-this.tl.${1:TIMELINE_NAME} = new TimelineLite(${2: { paused:true \} });
+this.tl.${1:TIMELINE_NAME} = new TimelineLite(${2: { $0paused:true \} });
 ]]></content>
-	<tabTrigger>tll</tabTrigger>
+	<tabTrigger>ntll</tabTrigger>
 	<scope>source.js</scope>
 	<description>new TimelineLite() - LilGast8</description>
 </snippet>
