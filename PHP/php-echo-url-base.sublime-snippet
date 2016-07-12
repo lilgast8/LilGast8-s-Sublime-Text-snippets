@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<?php echo Path::\$URL->base; ?>
-]]></content>
-	<tabTrigger>peub</tabTrigger>
-	<description>php echo Path::$URL->base - LilGast8</description>
-</snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-for ( \$i = 0; \$i < ${1:count( \$${2:TAB_TO_COUNT} )}; \$i++ ) {
+for ( \$${1:i} = 0; \$${1:i} < ${2:count( ${3:\$${4:TAB_TO_COUNT}} )}; \$${1:i}++ ) {
 	${0:// BODY}
 }
 ]]></content>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<?php echo Contents::\$datas->${1:PAGE_NAME}->${2:VAR}; ?>
-]]></content>
-	<tabTrigger>pec</tabTrigger>
-	<description>php echo Contents::$datas - LilGast8</description>
-</snippet>
