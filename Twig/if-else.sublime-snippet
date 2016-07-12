@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+{% if ${1:condition} %}
+$0
+{% else %}
+
+{% endif %}
+]]></content>
+	<tabTrigger>ifel</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>if else - LilGast8</description>
+</snippet>

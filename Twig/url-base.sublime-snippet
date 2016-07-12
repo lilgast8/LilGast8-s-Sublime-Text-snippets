@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{ Path.URL.base }}
+]]></content>
+	<tabTrigger>ub</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>Path.URL.base - LilGast8</description>
+</snippet>

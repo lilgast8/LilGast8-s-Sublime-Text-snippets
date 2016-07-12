@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% endif %}
+]]></content>
+	<tabTrigger>eif</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>endif - LilGast8</description>
+</snippet>

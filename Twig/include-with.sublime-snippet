@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% include '${1:template}' with { ${2:key}: ${3:'${4:value}'} } %}
+]]></content>
+	<tabTrigger>incw</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>include with - LilGast8</description>
+</snippet>

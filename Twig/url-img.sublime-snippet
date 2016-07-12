@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{ Path.URL.img }}
+]]></content>
+	<tabTrigger>ui</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>Path.URL.img - LilGast8</description>
+</snippet>

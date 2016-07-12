@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<pre>
+{{ dump( ${1:array/object} ) }}
+</pre>
+]]></content>
+	<tabTrigger>d</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>dump() - LilGast8</description>
+</snippet>

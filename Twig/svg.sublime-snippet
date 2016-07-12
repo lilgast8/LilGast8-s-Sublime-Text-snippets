@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{ Helpers.svg( '${1:svg-name}' )|raw }}
+]]></content>
+	<tabTrigger>hsvg</tabTrigger>
+	<scope>text.html.twig</scope>
+	<description>Helpers.svg() - LilGast8</description>
+</snippet>
