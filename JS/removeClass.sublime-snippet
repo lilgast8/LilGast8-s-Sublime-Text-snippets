@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-removeClass( ${1:${2:\$${3:EL}}${4:[${5:0}]}}, '${6:CLASS_NAME}' );
+STF_dom_removeClass( ${1:${2:\$${3:EL}}${4:[${5:0}]}}, '${6:CLASS_NAME}' );
 ]]></content>
 	<tabTrigger>rc</tabTrigger>
 	<scope>source.js</scope>

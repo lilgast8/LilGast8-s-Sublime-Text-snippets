@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-getElPos( ${1:elW}, ${2:elH}, ${3:contW}, ${4:contH} );
+STF_math_getElPos( ${1:elW}, ${2:elH}, ${3:contW}, ${4:contH} );
 ]]></content>
 	<tabTrigger>gep</tabTrigger>
 	<scope>source.js</scope>
