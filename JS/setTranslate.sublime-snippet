@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+STF_dom_setTranslate( ${1:\$${2:EL}${3:[${4:0}]}}, ${5:X}, ${6:Y} );
+]]></content>
+	<tabTrigger>stl</tabTrigger>
+	<scope>source.js</scope>
+	<description>setTranslate - LilGast8</description>
+</snippet>
