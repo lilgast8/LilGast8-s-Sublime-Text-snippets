@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+STF_math_getInertia( ${1:destValue}, ${2:value}, ${3:inertia} );
+]]></content>
+	<tabTrigger>gin</tabTrigger>
+	<scope>source.js</scope>
+	<description>getInertia - LilGast8</description>
+</snippet>
