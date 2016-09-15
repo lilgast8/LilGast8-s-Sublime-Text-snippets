@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:this.\$${2:EL}}.on( '${3:EVENT}', \$.proxy( ${4:FCT}, ${5:this} ) );
 ]]></content>
-	<tabTrigger>b</tabTrigger>
+	<tabTrigger>be</tabTrigger>
 	<scope>source.js</scope>
-	<description>bind - LilGast8</description>
+	<description>bind event - LilGast8</description>
 </snippet>

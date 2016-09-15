@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this.${2:OBJECT}}.bind( ${1:this.${2:OBJECT}}.E.${3:EVENT}, ${4:FCT}, ${5:this} );
+]]></content>
+	<tabTrigger>bce</tabTrigger>
+	<scope>source.js</scope>
+	<description>bind custom event - LilGast8</description>
+</snippet>
