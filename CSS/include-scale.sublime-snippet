@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include scale(${1:X}, ${2:Y});
+@include scale( ${1:X}, ${2:Y} );
 ]]></content>
 	<tabTrigger>_isc</tabTrigger>
 	<scope>source.scss</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include skewY(${1:Y});
+@include skewY( ${1:Y} );
 ]]></content>
 	<tabTrigger>_isky</tabTrigger>
 	<scope>source.scss</scope>

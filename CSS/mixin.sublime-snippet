@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@mixin ${1:FCT_NAME}(${2:ARGS}) {
+@mixin ${1:FCT_NAME}( ${2:ARGS} ) {
 	${3:// BODY}
 }
 ]]></content>

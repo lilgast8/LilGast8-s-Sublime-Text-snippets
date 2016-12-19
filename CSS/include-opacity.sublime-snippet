@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include opacity($0);
+@include opacity( $1 );
 ]]></content>
 	<tabTrigger>_io</tabTrigger>
 	<scope>source.scss</scope>

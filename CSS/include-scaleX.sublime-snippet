@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include scaleX(${1:X});
+@include scaleX( ${1:X} );
 ]]></content>
 	<tabTrigger>_iscx</tabTrigger>
 	<scope>source.scss</scope>

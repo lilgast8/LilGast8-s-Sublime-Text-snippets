@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include translateY(${1:Y});
+@include translateY( ${1:Y} );
 ]]></content>
 	<tabTrigger>_itly</tabTrigger>
 	<scope>source.scss</scope>

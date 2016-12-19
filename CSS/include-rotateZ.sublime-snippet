@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include rotateZ(${1:180}${2:deg});
+@include rotateZ( ${1:180}${2:deg} );
 ]]></content>
 	<tabTrigger>_irtz</tabTrigger>
 	<scope>source.scss</scope>

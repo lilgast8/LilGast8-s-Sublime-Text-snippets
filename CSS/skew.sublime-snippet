@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-skew(${1:X}, ${2:Y})
+skew( ${1:X}, ${2:Y} )
 ]]></content>
 	<tabTrigger>_sk</tabTrigger>
 	<scope>source.scss</scope>

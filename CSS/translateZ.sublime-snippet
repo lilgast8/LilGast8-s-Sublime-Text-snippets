@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-translateZ(${1:Z})
+translateZ( ${1:Z} )
 ]]></content>
 	<tabTrigger>_tlz</tabTrigger>
 	<scope>source.scss</scope>

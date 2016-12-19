@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include skewX(${1:X});
+@include skewX( ${1:X} );
 ]]></content>
 	<tabTrigger>_iskx</tabTrigger>
 	<scope>source.scss</scope>

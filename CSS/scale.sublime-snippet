@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-scale(${1:X}, ${2:Y})
+scale( ${1:X}, ${2:Y} )
 ]]></content>
 	<tabTrigger>_sc</tabTrigger>
 	<scope>source.scss</scope>
