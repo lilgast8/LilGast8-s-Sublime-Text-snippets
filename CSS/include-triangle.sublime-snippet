@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include triangle( ${1:top}px, ${2:right}px, ${3:bottom}px, ${4:left}px, ${5:colorTop}, ${6:colorRight}, ${7:colorBottom}, ${8:colorLeft} );
+]]></content>
+	<tabTrigger>_itr</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include triangle() - LilGast8</description>
+</snippet>
