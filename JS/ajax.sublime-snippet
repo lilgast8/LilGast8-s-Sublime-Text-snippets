@@ -9,7 +9,7 @@
 				},
 	dataType:	'html',
 	success:	${4:this.${5:SUCCESS_FCT/_SUCCESS_FCT}.bind( this )},
-	error:		${6:this.${7:SUCCESS_FCT/_SUCCESS_FCT}.bind( this )}
+	error:		${6:this.${7:ERROR_FCT/_ERROR_FCT}.bind( this )}
 });
 ]]></content>
 	<tabTrigger>ajax</tabTrigger>
