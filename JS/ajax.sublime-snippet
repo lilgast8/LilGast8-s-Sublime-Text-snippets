@@ -8,8 +8,8 @@
 					${2:DATA}: ${3:DATA_TO_PASS}
 				},
 	dataType:	'html',
-	success:	${4:this.${5:SUCCESS_FCT/_SUCCESS_FCT}.bind( this )},
-	error:		${6:this.${7:ERROR_FCT/_ERROR_FCT}.bind( this )}
+	success:	this.${4:SUCCESS_FCT},
+	error:		this.${7:ERROR_FCT}
 } );
 ]]></content>
 	<tabTrigger>ajax</tabTrigger>

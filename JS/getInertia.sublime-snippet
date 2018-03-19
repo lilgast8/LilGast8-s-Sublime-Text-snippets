@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-STF_math_getInertia( ${1:destValue}, ${2:value}, ${3:inertia} );
+STF_math_getInertia( ${1:destValue}, ${2:value}, ${3:inertia}, ${4:hasMinStep}, ${5:minStep} );
 ]]></content>
 	<tabTrigger>gin</tabTrigger>
 	<scope>source.js</scope>

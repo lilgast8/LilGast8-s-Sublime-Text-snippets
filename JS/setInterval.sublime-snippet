@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-setInterval( function() {
+setInterval( () => ${1:{
 	${0:// BODY}
-}${1:.bind( this )}, ${2:delay} );
+\}}, ${2:delay} );
 ]]></content>
 	<tabTrigger>sin</tabTrigger>
 	<scope>source.js</scope>

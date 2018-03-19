@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:FUNCTION_NAME}(${2: ARGS }) {
+	${0:// BODY}
+}
+]]></content>
+	<tabTrigger>fct</tabTrigger>
+	<scope>source.js</scope>
+	<description>function - LilGast8</description>
+</snippet>

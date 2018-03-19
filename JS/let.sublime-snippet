@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let 
+]]></content>
+	<tabTrigger>l</tabTrigger>
+	<scope>source.js</scope>
+	<description>let - LilGast8</description>
+</snippet>

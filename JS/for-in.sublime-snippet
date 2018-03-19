@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-for ( var ${1:KEY} in ${2:OBJECT} ) {
+for ( const ${1:KEY} in ${2:OBJECT} ) {
 	${0:// BODY}
 }
 ]]></content>

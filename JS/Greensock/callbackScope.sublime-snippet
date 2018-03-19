@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+callbackScope: this
+]]></content>
+	<tabTrigger>cs</tabTrigger>
+	<scope>source.js</scope>
+	<description>callbackScope - LilGast8</description>
+</snippet>
