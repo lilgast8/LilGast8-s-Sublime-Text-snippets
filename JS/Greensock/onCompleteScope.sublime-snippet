@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onCompleteScope: this
+]]></content>
+	<tabTrigger>ocs</tabTrigger>
+	<scope>source.js</scope>
+	<description>onCompleteScope - LilGast8</description>
+</snippet>

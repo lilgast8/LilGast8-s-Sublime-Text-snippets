@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onCompleteParams: [ ${0:VAR} ]
+]]></content>
+	<tabTrigger>ocp</tabTrigger>
+	<scope>source.js</scope>
+	<description>onCompleteParams - LilGast8</description>
+</snippet>

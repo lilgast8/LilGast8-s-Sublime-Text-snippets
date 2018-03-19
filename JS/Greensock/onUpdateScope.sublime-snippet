@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onUpdateScope: this
+]]></content>
+	<tabTrigger>ous</tabTrigger>
+	<scope>source.js</scope>
+	<description>onUpdateScope - LilGast8</description>
+</snippet>

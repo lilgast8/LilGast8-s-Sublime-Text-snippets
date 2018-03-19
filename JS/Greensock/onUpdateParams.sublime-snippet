@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onUpdateParams: [ ${0:VAR} ]
+]]></content>
+	<tabTrigger>oup</tabTrigger>
+	<scope>source.js</scope>
+	<description>onUpdateParams - LilGast8</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onStartScope: this
+]]></content>
+	<tabTrigger>oss</tabTrigger>
+	<scope>source.js</scope>
+	<description>onStartScope - LilGast8</description>
+</snippet>

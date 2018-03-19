@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onStartParams: [ ${0:VAR} ]
+]]></content>
+	<tabTrigger>osp</tabTrigger>
+	<scope>source.js</scope>
+	<description>onStartParams - LilGast8</description>
+</snippet>
