@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include rotateY( ${1:180}${2:deg} );
-]]></content>
-	<tabTrigger>_irty</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include rotateY() - LilGast8</description>
-</snippet>

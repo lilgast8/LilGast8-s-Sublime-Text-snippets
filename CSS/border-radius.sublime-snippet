@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-@include border-radius( ${1:50}${2:%} );
+border-radius: ${1:50}${2:%};
 ]]></content>
-	<tabTrigger>_ibr</tabTrigger>
+	<tabTrigger>_br</tabTrigger>
 	<scope>source.scss</scope>
 	<description>@include border-radius() - LilGast8</description>
 </snippet>

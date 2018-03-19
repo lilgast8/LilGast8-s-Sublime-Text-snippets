@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include translateZ( ${1:Z} );
-]]></content>
-	<tabTrigger>_itlz</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include translateZ() - LilGast8</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include rotate( ${1:180}${2:deg} );
-]]></content>
-	<tabTrigger>_irt</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include rotate() - LilGast8</description>
-</snippet>

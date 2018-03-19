@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include scaleX( ${1:X} );
-]]></content>
-	<tabTrigger>_iscx</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include scaleX() - LilGast8</description>
-</snippet>

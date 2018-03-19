@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include rotateX( ${1:180}${2:deg} );
-]]></content>
-	<tabTrigger>_irtx</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include rotateX() - LilGast8</description>
-</snippet>

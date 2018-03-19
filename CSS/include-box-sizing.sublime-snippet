@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include box-sizing( border-box );
-]]></content>
-	<tabTrigger>_ibs</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include box-sizing() - LilGast8</description>
-</snippet>

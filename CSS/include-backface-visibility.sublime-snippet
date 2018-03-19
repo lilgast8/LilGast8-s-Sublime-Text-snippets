@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include backface-visibility( hidden );
-]]></content>
-	<tabTrigger>_ibv</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include backface-visibility() - LilGast8</description>
-</snippet>

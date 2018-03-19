@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-@include background-size( cover );
+background-size: cover;
 ]]></content>
-	<tabTrigger>_ibgs</tabTrigger>
+	<tabTrigger>_bgs</tabTrigger>
 	<scope>source.scss</scope>
 	<description>@include background-size() - LilGast8</description>
 </snippet>

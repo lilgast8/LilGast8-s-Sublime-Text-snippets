@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include scaleZ( ${1:Z} );
-]]></content>
-	<tabTrigger>_iscz</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include scaleZ() - LilGast8</description>
-</snippet>

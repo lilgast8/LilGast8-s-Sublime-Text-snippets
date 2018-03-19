@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include skewY( ${1:Y} );
-]]></content>
-	<tabTrigger>_isky</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include skewY() - LilGast8</description>
-</snippet>

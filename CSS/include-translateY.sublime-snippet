@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@include translateY( ${1:Y} );
-]]></content>
-	<tabTrigger>_itly</tabTrigger>
-	<scope>source.scss</scope>
-	<description>@include translateY() - LilGast8</description>
-</snippet>
